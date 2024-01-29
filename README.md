@@ -17,6 +17,9 @@ md这个咋编辑格式呀，算了，以后再说，把这玩意当日志玩吧
 PS：测过好几个DNS不止这一个，大家可以多试试。
 
 20240130
-感谢hellogithub.com
-做了一个小工具更新追加GitHub520 Host内容到hosts文件里
-可以配合定时任务自动运行
+
+感谢hellogithub.com。
+
+做了一个小工具更新追加GitHub520 Host内容到hosts文件里。
+
+可以配合定时任务自动运行。
